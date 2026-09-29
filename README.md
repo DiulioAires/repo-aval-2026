@@ -18,6 +18,7 @@ Conventional Commits, merges, resolução de conflitos, versionamento e Pull Req
 
 | Nome | Usuário do GitHub |
 | ---- | ----------------- |
+| Diulio Aires | @DiulioAires |
 
 ## Sumário
 
