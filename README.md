@@ -14,10 +14,11 @@ Conventional Commits, merges, resolução de conflitos, versionamento e Pull Req
 
 > Preenchida pela equipe na [TAREFA-01](TAREFAS.md#tarefa-01--integrantes-da-equipe).
 
-**Nome da equipe:**
+**Nome da equipe:** diufe
 
 | Nome | Usuário do GitHub |
 | ---- | ----------------- |
+| Diulio Aires | @DiulioAires |
 
 ## Sumário
 
