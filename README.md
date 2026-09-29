@@ -18,6 +18,7 @@ Conventional Commits, merges, resolução de conflitos, versionamento e Pull Req
 
 | Nome | Usuário do GitHub |
 | ---- | ----------------- |
+| Felipe Cunha | @felipemdacunha |
 
 ## Sumário
 
